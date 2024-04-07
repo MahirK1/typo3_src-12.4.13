@@ -1,0 +1,23 @@
+{
+    "name": "mahir/news-portal",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "homepage": "https://www.mahirkustura.com",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+        "typo3/cms-core": "^12.4",
+        "typo3/cms-rte-ckeditor": "^12.4",
+        "typo3/cms-fluid-styled-content": "^12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mahir\\NewsPortal\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "news_portal"
+        }
+    }
+}

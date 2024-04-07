@@ -1,0 +1,13 @@
+/.htaccess
+/.phpstorm.meta.php
+/CODE_OF_CONDUCT.md
+/CONTRIBUTING.md
+/fileadmin
+/index.php
+/INSTALL.md
+/LICENSE.txt
+/README.md
+/SECURITY.md
+/typo3
+/typo3temp
+/vendor
